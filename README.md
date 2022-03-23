@@ -5,7 +5,7 @@
 
 <p align="center" font-family="Garamond">I'm a <strong>Full Stack</strong> developer ¡Check my content <img src="https://catalogo.niderasemillas.com.ar/img/gif-manito-1.gif" width="25px">!</p>
 <p align="center">
-   <a href="https://www.linkedin.com/in/leandro-agustin-valdez-188747229/" target="_blank" style='margin-right:4px'>
+   <a href="https://www.linkedin.com/in/leandro-agustin-valdez-188747229/" target="_blank">
     <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Agustinv45" width="60px" />
   </a>
   <a href="https://www.instagram.com/agu_valdez" target="_blank">
